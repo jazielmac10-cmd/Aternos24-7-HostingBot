@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AdrielSama.aternos.me:34439",
+    "ip": "stargazer.aternos.host:34439",
     "port": 34439,
     "version": "",
     "try-creative": false
