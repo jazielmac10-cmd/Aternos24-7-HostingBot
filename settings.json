@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AdrielSama.aternos.me",
-    "port": 34439,
-    "version": "26.2",
+    "ip": "AdrielSama-YZSe.aternos.me",
+    "port": 47924,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -27,9 +27,9 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 120,
+      "enabled": false,
+      "repeat": false,
+      "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
         "Subscribe to Slobos!",
